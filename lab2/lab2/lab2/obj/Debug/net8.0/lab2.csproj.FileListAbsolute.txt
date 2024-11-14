@@ -1,0 +1,15 @@
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\lab2.sourcelink.json
+F:\Programowanie Obiektowe\lab2\lab2\lab2\bin\Debug\net8.0\lab2.exe
+F:\Programowanie Obiektowe\lab2\lab2\lab2\bin\Debug\net8.0\lab2.deps.json
+F:\Programowanie Obiektowe\lab2\lab2\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+F:\Programowanie Obiektowe\lab2\lab2\lab2\bin\Debug\net8.0\lab2.dll
+F:\Programowanie Obiektowe\lab2\lab2\lab2\bin\Debug\net8.0\lab2.pdb
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\lab2.dll
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\refint\lab2.dll
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\lab2.pdb
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+F:\Programowanie Obiektowe\lab2\lab2\lab2\obj\Debug\net8.0\ref\lab2.dll
